@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+*.sdf
+*.suo
+*.VC.db
+ipch/
+Debug/
+*.vcxproj.user
+*.vcxproj.filters
